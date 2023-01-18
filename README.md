@@ -1,5 +1,5 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=3k11ooo)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=3k11ooo)]
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=3k11ooo&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=3k11ooo)
 
 <!--
 **3k11ooo/3k11ooo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
