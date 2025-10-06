@@ -1,20 +1,10 @@
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=3k11ooo&theme=default&count_private=true&show_icons=true/">
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=3k11ooo&exclude_repo=BringTheBall,dome_final,GSS1_FS_FS">
-</a>
-<!--
-**3k11ooo/3k11ooo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Stats
 
-Here are some ideas to get you started:
+<div align="center">
+    <img height="220em" src="https://github-readme-stats.vercel.app/api?username=3k11ooo&show_icons=true&theme=slateorange&title_color=faed90&text_color=8b9394&icon_color=8b9394&&hide_border=true&bg_color=202831&locale=en" alt="3k11ooo" />
+    <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs?username=3k11ooo&show_icons=true&theme=slateorange&title_color=faed90&text_color=8b9394&icon_color=8b9394&layout=compact&hide_border=true&bg_color=202831&exclude_repo=BringTheBall,dome_final,GSS1_FS_FS" alt="3k11ooo" />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=3k11ooo&theme=github-compact&hide_border=true&area=true)
